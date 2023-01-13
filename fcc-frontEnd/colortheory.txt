@@ -1,0 +1,13 @@
+Two colors that are opposite from each other on the color wheel are called complementary colors. 
+If two complementary colors are combined, they produce gray. But when they are placed side-by-side, 
+these colors produce strong visual contrast and appear brighter
+
+It's better practice to choose one color as the dominant color, 
+and use its complementary color as an accent to bring attention to certain content on the page.
+
+With hex colors, 00 is 0% of that color, and FF is 100%. 
+So #00FF00 translates to 0% red, 100% green, and 0% blue, 
+and is the same as rgb(0, 255, 0).
+
+A gradient is when one color transitions into another. The CSS linear-gradient function lets you 
+control the direction of the transition along a line, and which colors are used.
